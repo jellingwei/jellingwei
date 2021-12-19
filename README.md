@@ -1,6 +1,7 @@
 <h2> Hey, I am Wei Ling! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I work as a Software Engineer in Singapore 
+  
 ![singapore](https://user-images.githubusercontent.com/74456191/146677103-cb7b58cb-9d2c-478a-8e60-803abe6ab673.png)
 
 </em></p>
