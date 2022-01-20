@@ -10,7 +10,7 @@
 - 😍 Love: Disney! Movies and Anime
 
 ### Find me elsewhere 🌎
-[![Linkedin: huangweiling](https://img.shields.io/badge/-huangweiling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://sg.linkedin.com/in/huang-wei-ling-9365a5112)](https://sg.linkedin.com/in/huang-wei-ling-9365a5112/)
+[![Linkedin: weilinghuang](https://img.shields.io/badge/-huangweiling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wei-ling-huang-84b173228/)](https://www.linkedin.com/in/wei-ling-huang-84b173228/)
 
 <!--
 **jellingwei/jellingwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
